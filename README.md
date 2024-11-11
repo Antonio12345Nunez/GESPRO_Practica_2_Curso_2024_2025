@@ -17,9 +17,11 @@ Intefaz de creación de nuevas tareas
 
 2 - Ahora se mostrarán capturas de los filtros por Epic, US y Tasks en la columna de New Issues
 Primero filtramos por Type: Epic, como vemos, solo aparecen 3 y son las correctas.
+
 ![image](https://github.com/user-attachments/assets/a89d3512-94c9-464d-a7bb-3240ee842a83)
 
 Ahora filtramos por User Stories (Type: User Story). Como se ve, el filtrado se ha realizado correctamente, y aunque no se ven todas, al principio de la columna pone "7 issues", que son las 7 User Storie que debe haber.
+
 ![image](https://github.com/user-attachments/assets/ab50ff0b-e284-4398-95a4-2f31024f20c9)
 
 Por último filtramos por task
