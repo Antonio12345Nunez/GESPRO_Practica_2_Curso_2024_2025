@@ -15,7 +15,8 @@ Interfaz principal:
 Intefaz de creación de nuevas tareas
 ![interfaz2](https://github.com/user-attachments/assets/0a945611-fafa-4f99-ae30-2c2ea50841c8)
 
-2 - Ahora se mostrarán capturas de los filtros por Epic, US y Tasks en la columna de New Issues
+2 - Ahora se mostrarán capturas de los filtros por Epic, US y Tasks en la columna de New Issues.
+
 Primero filtramos por Type: Epic, como vemos, solo aparecen 3 y son las correctas.
 
 ![image](https://github.com/user-attachments/assets/a89d3512-94c9-464d-a7bb-3240ee842a83)
