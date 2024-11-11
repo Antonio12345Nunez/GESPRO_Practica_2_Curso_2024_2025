@@ -8,3 +8,9 @@ Incluid debajo el nombre de los miembros del grupo:
   NICOLÁS VILLANUEVA ORTEGA
 
 1 - Para empezar a interactuar y desarrollar este proyecto, es importante identificar todos los elementos del mismo y familiarizarse con la estructura de ZenHub. Hay que tener claro el funcionamiento de las labels, como identificar correctamente cada tarea con su tipo (Type: Task) su topic (Topic:xxx) y su tarea padre, en nuestro proyecto, siempre una tarea correspondiente a User Stories (US: xxx).
+Las partes importantes de la interfaz para empezar a manejar nuestro proyecto son las siguientes:
+![interfaz1](https://github.com/user-attachments/assets/23fbe5e0-d83d-4afc-833f-dba7b45fd4f9)
+![interfaz2](https://github.com/user-attachments/assets/0a945611-fafa-4f99-ae30-2c2ea50841c8)
+
+2 - Ahora se mostrarán capturas de los filtros por Epic, US y Tasks en la columna de New Issues
+
