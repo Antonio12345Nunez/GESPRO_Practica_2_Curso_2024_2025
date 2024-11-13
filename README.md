@@ -10,10 +10,13 @@ Incluid debajo el nombre de los miembros del grupo:
 1 - Para empezar a interactuar y desarrollar este proyecto, es importante identificar todos los elementos del mismo y familiarizarse con la estructura de ZenHub. Hay que tener claro el funcionamiento de las labels, como identificar correctamente cada tarea con su tipo (Type: Task) su topic (Topic:xxx) y su tarea padre, en nuestro proyecto, siempre una tarea correspondiente a User Stories (US: xxx).
 Las partes importantes de la interfaz para empezar a manejar nuestro proyecto son las siguientes:
 Interfaz principal:
+
 ![interfaz1](https://github.com/user-attachments/assets/23fbe5e0-d83d-4afc-833f-dba7b45fd4f9)
 
 Intefaz de creación de nuevas tareas
+
 ![interfaz2](https://github.com/user-attachments/assets/0a945611-fafa-4f99-ae30-2c2ea50841c8)
+
 
 2 - Ahora se mostrarán capturas de los filtros por Epic, US y Tasks en la columna de New Issues.
 
@@ -53,6 +56,26 @@ Tareas de la Release 1 en el Sprint Backlog
 Y como ya se ha mencionado, la realease se ha completado al 100%.
 
 ![5](https://github.com/user-attachments/assets/b24528ab-a75a-4547-9b4b-a9c71dbcbb56)
+
+Debido a que ya la hemos completado al 100% podemos cerrarla, y como se puede apreciar, pasa al apartado de Close.
+
+![image](https://github.com/user-attachments/assets/bd2c9bcc-1c0c-4b22-a840-b0407541884e)
+
+
+
+6 - Ahora se va a mostrar el comienzo de la Segunda Release. Podemos comenzar con esta puesto que ya hemos terminado y cerrado la Primera Release. Esto es importante, ya que para empezar con una Release, primero se debe haber cerrado la anterior.
+
+Como es el comienzo de la Segunda Release, pasamos todas las tareas de la Release Dos a la Pipeline: Sprint Backlog
+
+![image](https://github.com/user-attachments/assets/562a9d6b-f063-4ce7-961a-de00c26ec4e7)
+
+7 - Para continuar con la realización de las tareas, las incluimos en diferentes Pipelines según su grado de ejecución, al igual que antes.
+
+![7](https://github.com/user-attachments/assets/36581412-c1ac-475d-a99b-f7cbed4082bc)
+
+
+
+
 
 
 
