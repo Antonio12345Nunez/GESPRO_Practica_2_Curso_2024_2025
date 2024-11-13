@@ -30,6 +30,19 @@ Por último filtramos por task. Como se puede apreciar, se muestrán 32 issues, 
 ![image](https://github.com/user-attachments/assets/ec91bf2d-5fcb-4d53-a15f-f72ce8167368)
 
 
+3 - Ahora empezaremos con la simulación de la realización de las tareas. Para empezar introduciremos las tareas de la primera Release en el Sprint Backlog. Para representar esto de forma correcta se añadirán primero las Type: Epic y Type: User Storie a la pipeline Product Backlog
+
+Tareas Epic y User Storie en Product Backlog
+
+![Imagen de WhatsApp 2024-11-13 a las 15 10 01_6b45e92d](https://github.com/user-attachments/assets/70a61274-bf41-4ca6-abee-8b0b68afcceb)
+
+Tareas de la Release 1 en el Sprint Backlog
+
+![Imagen de WhatsApp 2024-11-13 a las 15 11 08_41ba2e6b](https://github.com/user-attachments/assets/63e6f376-fbe2-40bf-86e6-ceb9d6264c0f)
+
+
+
+
 
 
 
