@@ -34,11 +34,13 @@ Por último filtramos por task. Como se puede apreciar, se muestrán 32 issues, 
 
 Tareas Epic y User Storie en Product Backlog
 
-![Imagen de WhatsApp 2024-11-13 a las 15 10 01_6b45e92d](https://github.com/user-attachments/assets/70a61274-bf41-4ca6-abee-8b0b68afcceb)
+![1](https://github.com/user-attachments/assets/2aac94bd-106e-457b-bdfc-eaed11ede71b)
+
 
 Tareas de la Release 1 en el Sprint Backlog
 
-![Imagen de WhatsApp 2024-11-13 a las 15 11 08_41ba2e6b](https://github.com/user-attachments/assets/63e6f376-fbe2-40bf-86e6-ceb9d6264c0f)
+![2](https://github.com/user-attachments/assets/0965b59b-fc05-444b-868d-db6537f6c003)
+
 
 
 
