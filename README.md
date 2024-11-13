@@ -25,7 +25,12 @@ Ahora filtramos por User Stories (Type: User Story). Como se ve, el filtrado se 
 
 ![image](https://github.com/user-attachments/assets/ab50ff0b-e284-4398-95a4-2f31024f20c9)
 
-Por último filtramos por task
+Por último filtramos por task. Como se puede apreciar, se muestrán 32 issues, que son las 31 tareas (Type: Task) que forman parte del proyecto
+
+![image](https://github.com/user-attachments/assets/ec91bf2d-5fcb-4d53-a15f-f72ce8167368)
+
+
+
 
 
 
