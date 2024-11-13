@@ -7,6 +7,9 @@ Incluid debajo el nombre de los miembros del grupo:
   ANTONIO NÚÑEZ COZAR
   NICOLÁS VILLANUEVA ORTEGA
 
+Como nota antes de empezar a presentar nuestro proyecto, el número de tareas totales creadas supera al total de tareas del proyecto. Esto es porque se han creado 3 tareas equivocadas y no hemos encontrado como eliminarlas. Debido a ello se han cerrado y se encuentran en la pipeline Close, al final del todo.
+También se ha generado una descripción para cada una de las tareas con el formato que se nos indicó en clase ( As a user I ...). Por último, como se indica en el enunciado, se han comentado entre los participantes 3 tareas de la realease 1 y 2 de cada una de las otras dos releases. Se puede apreciar una breve conversación preguntando en cada una de dichas tareas, dudas sobre la misma, y siendo resueltas por el otro compañero.
+
 1 - Para empezar a interactuar y desarrollar este proyecto, es importante identificar todos los elementos del mismo y familiarizarse con la estructura de ZenHub. Hay que tener claro el funcionamiento de las labels, como identificar correctamente cada tarea con su tipo (Type: Task) su topic (Topic:xxx) y su tarea padre, en nuestro proyecto, siempre una tarea correspondiente a User Stories (US: xxx).
 Las partes importantes de la interfaz para empezar a manejar nuestro proyecto son las siguientes:
 Interfaz principal:
@@ -67,11 +70,40 @@ Debido a que ya la hemos completado al 100% podemos cerrarla, y como se puede ap
 
 Como es el comienzo de la Segunda Release, pasamos todas las tareas de la Release Dos a la Pipeline: Sprint Backlog
 
-![image](https://github.com/user-attachments/assets/562a9d6b-f063-4ce7-961a-de00c26ec4e7)
+![6](https://github.com/user-attachments/assets/d0539aad-c0bc-4425-a9a5-0698a7fb1d78)
+
 
 7 - Para continuar con la realización de las tareas, las incluimos en diferentes Pipelines según su grado de ejecución, al igual que antes.
 
 ![7](https://github.com/user-attachments/assets/36581412-c1ac-475d-a99b-f7cbed4082bc)
+
+Como se pide en el enunciado, también se muestra una captura de dichas tareas filtradas por un topic, en este caso; Topic: Extra.
+
+![8](https://github.com/user-attachments/assets/61d7eb1e-3523-462d-a43e-3636531fe46c)
+
+Aunque no se pide en el enunciado, vamos a mostrar tambíen el cierre de todas las tareas y la completa finalización de la Release 2. Como vemos se han cerrado las tareas y ahora estas aparecen, junto con las ya presentes, en el pipeline Close.
+
+![9](https://github.com/user-attachments/assets/a2d6d086-f9a1-4172-8f46-e377028773a3)
+
+Como podemos ver, ahora la Release 2 se ha completado al 100% ya que se han finalizado todas sus tareas.
+
+![image](https://github.com/user-attachments/assets/45faabe4-361e-4670-a0b8-5195cf35a41b)
+
+Debido a esto, como hemos hecho anteriormente, podemos cerrar la Release 2, y pasará al apartado de Close.
+
+![image](https://github.com/user-attachments/assets/f22e4914-0ef5-46a4-92ea-38a2ee6e16ae)
+
+
+8 - Por último se mostrará una conversación entre los dos miembros del equipo solucionando una duda o problema en relación a una de las tareas. Como se ha explicado al principio se han incluido los comentarios solicitados en 3 tareas de la Releas 1, dos de la Release 2 y otros dos en la Release 3.
+
+Este comentario que podemos apreciar se encuentra en la tarea "Set up an automatic payment" correspondiente a la Release 2.
+
+![image](https://github.com/user-attachments/assets/ae2ec91c-90a4-41ce-92a4-90f6954e8334)
+
+
+
+
+
 
 
 
