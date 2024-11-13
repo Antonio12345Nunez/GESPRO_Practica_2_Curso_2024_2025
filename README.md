@@ -42,6 +42,22 @@ Tareas de la Release 1 en el Sprint Backlog
 ![2](https://github.com/user-attachments/assets/0965b59b-fc05-444b-868d-db6537f6c003)
 
 
+4 - A continuación se muestran las tareas de la Release 1 en progreso. Se encuentran en diferentes columnas, o pipelines según su grado de ejecución, para simular más fielmente el desarrollo de las mismas. Como se puede apreciar solo se mueven las tareas tipo; Type: Task.
+
+![3](https://github.com/user-attachments/assets/f432e0d6-418c-4d59-81e5-b6703cee2103)
+
+5 - Por último cerramos la primera Release. Para ello cerramos todas las tareas de dicha Release, puesto que ya las habríamos completado. Como podemos ver las tareas pasasn a la pipeline Close, y si visualizamos el progreso de la Release, veremos que esta al 100% ya que todas las tareas se han realizado.
+
+![4](https://github.com/user-attachments/assets/05ff158d-3abd-4822-aa3a-8633cbcad6db)
+
+Y como ya se ha mencionado, la realease se ha completado al 100%.
+
+![5](https://github.com/user-attachments/assets/b24528ab-a75a-4547-9b4b-a9c71dbcbb56)
+
+
+
+
+
 
 
 
